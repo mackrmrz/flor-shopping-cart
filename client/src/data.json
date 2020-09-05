@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "_id": "plant_1",
+            "title": "Mammillaria",
+            "description": "Makes a nice desk plant",
+            "price": 22.99,
+            "product_image": "/images/Mammillaria.jpg"
+        },
+        {
+            "_id": "plant_2",
+            "title": "Mammillaria Candida",
+            "description": "Makes a nice desk plant",
+            "price": 22.99,
+            "product_image": "/images/MammillariaCandida.jpg"
+        },
+        {
+            "_id": "plant_3",
+            "title": "Mammillaria Geminispina",
+            "description": "Makes a nice desk plant",
+            "price": 23.99,
+            "product_image": "/images/MammillariaGeminispina.jpg"
+        },
+        {
+            "_id": "plant_4",
+            "title": "Prickly Pear",
+            "description": "Makes a nice desk plant",
+            "price": 26.99,
+            "product_image": "/images/pricklyPear.jpg"
+        },
+        {
+            "_id": "plant_5",
+            "title": "Schlumberg",
+            "description": "Makes a nice desk plant",
+            "price": 20.99,
+            "product_image": "/images/Schlumberg.jpg"
+        },
+        {
+            "_id": "plant_6",
+            "title": "Schlumbergera",
+            "description": "Makes a nice desk plant",
+            "price": 22.99,
+            "product_image": "/images/schlumbergera-vase.jpg"
+        }
+    ]
+}
